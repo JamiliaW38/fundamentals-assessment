@@ -6,16 +6,16 @@
 
  Using whichever notation you choose (bracket or dot notation), change each value of `myBook` to reflect the following:
 
-* [ ] Title of myBook is "My Autobiography" (string)
+* [x ] Title of myBook is "My Autobiography" (string)
 
-* [ ] Cover of myBook is "paperback" (string)
+* [ x] Cover of myBook is "paperback" (string)
 
-* [ ] myBook has 320 pages (number)
+* [ x] myBook has 320 pages (number)
 
-* [ ] It's `true` that I own this book (boolean)
+* [x ] It's `true` that I own this book (boolean)
 
 -
 
-* [ ] Using whichever notation, add a property "inStores" and assign it the value `false`
+* [x ] Using whichever notation, add a property "inStores" and assign it the value `false`
 
-* [ ] Create a proper loop to display each key value pair (property name and property value).
+* [x ] Create a proper loop to display each key value pair (property name and property value).

@@ -14,9 +14,9 @@
 ## Grading Outline
 
 
-Arrays Assessment :
+Arrays Assessment :COMPLETE
 
-Objects Assessment :
+Objects Assessment :COMPLETE
 
 
 ## Self-Grading Process
